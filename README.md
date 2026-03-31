@@ -86,19 +86,20 @@ The project includes an interactive dashboard built with **Streamlit**.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/thenul14/house-price-prediction.git
+git clone https://github.com/Thenul14/house-price-prediction.git
 cd house-price-prediction
-
+```
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run the Streamlit app
 ```bash
 streamlit run app.py
-
+```
 
 ## Project Structure
+```bash
 house-price-prediction/
 │
 ├── data/
@@ -106,7 +107,7 @@ house-price-prediction/
 │
 ├── models/
 │   ├── model.pkl
-│   ├── econdition_encoder.pkl
+│   ├── condition_encoder.pkl
 │   └── waterfront_encoder.pkl
 │
 ├── notebooks/
@@ -119,7 +120,7 @@ house-price-prediction/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Tech Stack
 
@@ -154,7 +155,7 @@ house-price-prediction/
 
 ## Author
 
-**Thenul Jayarathna Muhandiramge**
+**Thenul Chamikara Jayarathna Muhandiramge**
 
 ## Support
 
@@ -162,3 +163,4 @@ If you found this project useful, consider giving it a ⭐ on GitHub!
 
 
 ---
+
