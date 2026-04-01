@@ -137,7 +137,8 @@ with tab2:
 
     #scatterplot about features vs house price must run again after changing y to house price in notebook
     st.subheader("Scatter Plots On Some Features vs House Price")
-
+    st.image("assets/price vs sqft living.png")
+    st.image("assets/xgb actual vs predict.png")
 
     st.subheader("Key Insights")
 
